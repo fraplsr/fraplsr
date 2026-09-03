@@ -9,6 +9,7 @@ Software Engineering Lead in Henaxis, software house a Reggio Calabria. Costruia
 - FirmaDocs — firma e gestione documentale
 - SOStiMed — piattaforma per il settore sanitario
 - Ally — app per il monitoraggio della gravidanza
+- ATAM Tracking System — gestione del parco auto della Città Metropolitana di Reggio Calabria, con tracciamento GPS
 - Elettronica su misura, dal prototipo alla piccola serie
 - Decine di siti, gestionali e sistemi per clienti — tra gli altri CibisWeb, Studio Legale Gemelli, Sentirci, Borruto Carni, Consorzio Domicare; l'elenco completo è nel portfolio, su henaxis.com
 
