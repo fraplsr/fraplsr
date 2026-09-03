@@ -1,4 +1,4 @@
-# Francesco
+# fraplsr
 
 Engineering Lead in Henaxis, software house a Reggio Calabria. Costruiamo e ospitiamo noi quello che facciamo: gestionali, agenti AI, elettronica su misura, gli incentivi per pagarli.
 
