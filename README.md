@@ -8,8 +8,9 @@ Software Engineering Lead in Henaxis, software house a Reggio Calabria. Costruia
 - IND4.0 — la piattaforma per la finanza agevolata, dall'investimento alla rendicontazione
 - FirmaDocs — firma e gestione documentale
 - SOStiMed — piattaforma per il settore sanitario
+- Ally — app per il monitoraggio della gravidanza
 - Elettronica su misura, dal prototipo alla piccola serie
-- Decine di siti, gestionali e sistemi per aziende, enti e imprese sociali — l'elenco è nel portfolio, su henaxis.com
+- Decine di siti, gestionali e sistemi per clienti — tra gli altri CibisWeb, Studio Legale Gemelli, Sentirci, Borruto Carni, Consorzio Domicare; l'elenco completo è nel portfolio, su henaxis.com
 
 **Stack**: TypeScript, Python, PostgreSQL, Astro, React, Docker. Inferenza AI self-hosted dove i dati non possono uscire.
 
