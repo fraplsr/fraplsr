@@ -42,53 +42,53 @@ Software Engineering Lead in Henaxis, software house a Reggio Calabria. Costruia
 
 ## Stack
 
-**Linguaggi**
+![Linguaggi](https://img.shields.io/badge/Linguaggi-3db87f?style=flat-square&labelColor=3db87f)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3db87f?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3db87f?style=flat-square) ![Python](https://img.shields.io/badge/Python-3db87f?style=flat-square) ![PHP](https://img.shields.io/badge/PHP-3db87f?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-3db87f?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3db87f?style=flat-square) ![Astro](https://img.shields.io/badge/Astro-3db87f?style=flat-square)
 
-**Dati**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20%2B%20pgvector%20%2B%20PostGIS-3db87f?style=flat-square) ![MySQL/MariaDB](https://img.shields.io/badge/MySQL%20%2F%20MariaDB-3db87f?style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-3db87f?style=flat-square) ![SQLite](https://img.shields.io/badge/SQLite-3db87f?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-3db87f?style=flat-square) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-3db87f?style=flat-square) ![Supabase](https://img.shields.io/badge/Supabase-3db87f?style=flat-square)
+![Dati](https://img.shields.io/badge/Dati-2b6cb0?style=flat-square&labelColor=2b6cb0)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20%2B%20pgvector%20%2B%20PostGIS-2b6cb0?style=flat-square) ![MySQL/MariaDB](https://img.shields.io/badge/MySQL%20%2F%20MariaDB-2b6cb0?style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-2b6cb0?style=flat-square) ![SQLite](https://img.shields.io/badge/SQLite-2b6cb0?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-2b6cb0?style=flat-square) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-2b6cb0?style=flat-square) ![Supabase](https://img.shields.io/badge/Supabase-2b6cb0?style=flat-square)
 
-**Backend**
-![Node.js](https://img.shields.io/badge/Node.js-3db87f?style=flat-square) ![Express](https://img.shields.io/badge/Express-3db87f?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-3db87f?style=flat-square) ![Django](https://img.shields.io/badge/Django-3db87f?style=flat-square) ![Celery](https://img.shields.io/badge/Celery-3db87f?style=flat-square) ![Socket.IO](https://img.shields.io/badge/Socket.IO-3db87f?style=flat-square)
+![Backend](https://img.shields.io/badge/Backend-7c3aed?style=flat-square&labelColor=7c3aed)
+![Node.js](https://img.shields.io/badge/Node.js-7c3aed?style=flat-square) ![Express](https://img.shields.io/badge/Express-7c3aed?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-7c3aed?style=flat-square) ![Django](https://img.shields.io/badge/Django-7c3aed?style=flat-square) ![Celery](https://img.shields.io/badge/Celery-7c3aed?style=flat-square) ![Socket.IO](https://img.shields.io/badge/Socket.IO-7c3aed?style=flat-square)
 
-**ORM**
-![Prisma](https://img.shields.io/badge/Prisma-3db87f?style=flat-square) ![Drizzle](https://img.shields.io/badge/Drizzle-3db87f?style=flat-square) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy%20%2B%20Alembic-3db87f?style=flat-square)
+![ORM](https://img.shields.io/badge/ORM-d97706?style=flat-square&labelColor=d97706)
+![Prisma](https://img.shields.io/badge/Prisma-d97706?style=flat-square) ![Drizzle](https://img.shields.io/badge/Drizzle-d97706?style=flat-square) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy%20%2B%20Alembic-d97706?style=flat-square)
 
-**Frontend**
+![Frontend](https://img.shields.io/badge/Frontend-3db87f?style=flat-square&labelColor=3db87f)
 ![React](https://img.shields.io/badge/React-3db87f?style=flat-square) ![Vue](https://img.shields.io/badge/Vue-3db87f?style=flat-square) ![Next.js](https://img.shields.io/badge/Next.js-3db87f?style=flat-square) ![Tailwind](https://img.shields.io/badge/Tailwind-3db87f?style=flat-square) ![Vite](https://img.shields.io/badge/Vite-3db87f?style=flat-square) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-3db87f?style=flat-square) ![Three.js](https://img.shields.io/badge/Three.js-3db87f?style=flat-square) ![React Three Fiber](https://img.shields.io/badge/React%20Three%20Fiber-3db87f?style=flat-square) ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-3db87f?style=flat-square) ![GSAP](https://img.shields.io/badge/GSAP-3db87f?style=flat-square) ![Zustand](https://img.shields.io/badge/Zustand-3db87f?style=flat-square) ![D3.js](https://img.shields.io/badge/D3.js-3db87f?style=flat-square)
 
-**CMS**
-![Payload CMS](https://img.shields.io/badge/Payload%20CMS-3db87f?style=flat-square) ![Strapi](https://img.shields.io/badge/Strapi-3db87f?style=flat-square) ![CMS proprietari](https://img.shields.io/badge/CMS%20proprietari-3db87f?style=flat-square)
+![CMS](https://img.shields.io/badge/CMS-2b6cb0?style=flat-square&labelColor=2b6cb0)
+![Payload CMS](https://img.shields.io/badge/Payload%20CMS-2b6cb0?style=flat-square) ![Strapi](https://img.shields.io/badge/Strapi-2b6cb0?style=flat-square) ![CMS proprietari](https://img.shields.io/badge/CMS%20proprietari-2b6cb0?style=flat-square)
 
-**ERP**
-![Dolibarr](https://img.shields.io/badge/Dolibarr-3db87f?style=flat-square)
+![ERP](https://img.shields.io/badge/ERP-2b6cb0?style=flat-square&labelColor=2b6cb0)
+![Dolibarr](https://img.shields.io/badge/Dolibarr-2b6cb0?style=flat-square)
 
-**Test**
-![Jest](https://img.shields.io/badge/Jest-3db87f?style=flat-square) ![Vitest](https://img.shields.io/badge/Vitest-3db87f?style=flat-square) ![Playwright](https://img.shields.io/badge/Playwright-3db87f?style=flat-square)
+![Test](https://img.shields.io/badge/Test-7c3aed?style=flat-square&labelColor=7c3aed)
+![Jest](https://img.shields.io/badge/Jest-7c3aed?style=flat-square) ![Vitest](https://img.shields.io/badge/Vitest-7c3aed?style=flat-square) ![Playwright](https://img.shields.io/badge/Playwright-7c3aed?style=flat-square)
 
-**Infrastruttura**
-![Docker](https://img.shields.io/badge/Docker-3db87f?style=flat-square) ![Nginx](https://img.shields.io/badge/Nginx-3db87f?style=flat-square) ![Caddy](https://img.shields.io/badge/Caddy-3db87f?style=flat-square) ![Cloudflare](https://img.shields.io/badge/Cloudflare-3db87f?style=flat-square) ![Vercel](https://img.shields.io/badge/Vercel-3db87f?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-3db87f?style=flat-square) ![Hetzner](https://img.shields.io/badge/Hetzner-3db87f?style=flat-square) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-3db87f?style=flat-square) ![Coolify](https://img.shields.io/badge/Coolify-3db87f?style=flat-square) ![PM2](https://img.shields.io/badge/PM2-3db87f?style=flat-square)
+![Infrastruttura](https://img.shields.io/badge/Infrastruttura-d97706?style=flat-square&labelColor=d97706)
+![Docker](https://img.shields.io/badge/Docker-d97706?style=flat-square) ![Nginx](https://img.shields.io/badge/Nginx-d97706?style=flat-square) ![Caddy](https://img.shields.io/badge/Caddy-d97706?style=flat-square) ![Cloudflare](https://img.shields.io/badge/Cloudflare-d97706?style=flat-square) ![Vercel](https://img.shields.io/badge/Vercel-d97706?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-d97706?style=flat-square) ![Hetzner](https://img.shields.io/badge/Hetzner-d97706?style=flat-square) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-d97706?style=flat-square) ![Coolify](https://img.shields.io/badge/Coolify-d97706?style=flat-square) ![PM2](https://img.shields.io/badge/PM2-d97706?style=flat-square)
 
-**Desktop & automazione**
+![Desktop & automazione](https://img.shields.io/badge/Desktop%20%26%20automazione-3db87f?style=flat-square&labelColor=3db87f)
 ![Tauri](https://img.shields.io/badge/Tauri-3db87f?style=flat-square) ![n8n](https://img.shields.io/badge/n8n-3db87f?style=flat-square) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-3db87f?style=flat-square)
 
-**Integrazioni**
-![Stripe](https://img.shields.io/badge/Stripe-3db87f?style=flat-square) ![Twilio](https://img.shields.io/badge/Twilio-3db87f?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-3db87f?style=flat-square) ![Telegram Bot API](https://img.shields.io/badge/Telegram%20Bot%20API-3db87f?style=flat-square)
+![Integrazioni](https://img.shields.io/badge/Integrazioni-2b6cb0?style=flat-square&labelColor=2b6cb0)
+![Stripe](https://img.shields.io/badge/Stripe-2b6cb0?style=flat-square) ![Twilio](https://img.shields.io/badge/Twilio-2b6cb0?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-2b6cb0?style=flat-square) ![Telegram Bot API](https://img.shields.io/badge/Telegram%20Bot%20API-2b6cb0?style=flat-square)
 
-**Mobile**
-![Swift](https://img.shields.io/badge/Swift-3db87f?style=flat-square) ![Kotlin](https://img.shields.io/badge/Kotlin-3db87f?style=flat-square) ![Dart](https://img.shields.io/badge/Dart-3db87f?style=flat-square)
+![Mobile](https://img.shields.io/badge/Mobile-7c3aed?style=flat-square&labelColor=7c3aed)
+![Swift](https://img.shields.io/badge/Swift-7c3aed?style=flat-square) ![Kotlin](https://img.shields.io/badge/Kotlin-7c3aed?style=flat-square) ![Dart](https://img.shields.io/badge/Dart-7c3aed?style=flat-square)
 
-**Elettronica su misura**
-![ESP32](https://img.shields.io/badge/ESP32-3db87f?style=flat-square) ![Firmware C++](https://img.shields.io/badge/Firmware%20C%2B%2B-3db87f?style=flat-square)
+![Elettronica su misura](https://img.shields.io/badge/Elettronica%20su%20misura-d97706?style=flat-square&labelColor=d97706)
+![ESP32](https://img.shields.io/badge/ESP32-d97706?style=flat-square) ![Firmware C++](https://img.shields.io/badge/Firmware%20C%2B%2B-d97706?style=flat-square)
 
-**AI**
+![AI](https://img.shields.io/badge/AI-3db87f?style=flat-square&labelColor=3db87f)
 ![Ollama](https://img.shields.io/badge/Ollama-3db87f?style=flat-square) ![CUDA](https://img.shields.io/badge/CUDA-3db87f?style=flat-square) ![TensorRT](https://img.shields.io/badge/TensorRT-3db87f?style=flat-square) ![Jetson Orin](https://img.shields.io/badge/Jetson%20Orin-3db87f?style=flat-square) ![JetPack](https://img.shields.io/badge/JetPack-3db87f?style=flat-square) ![Whisper](https://img.shields.io/badge/Whisper-3db87f?style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-3db87f?style=flat-square) ![Pinecone](https://img.shields.io/badge/Pinecone-3db87f?style=flat-square)
 
-**RT & fiscalità**
-![Registratore Telematico](https://img.shields.io/badge/Registratore%20Telematico-3db87f?style=flat-square) ![Epson](https://img.shields.io/badge/Epson-3db87f?style=flat-square) ![Olivetti](https://img.shields.io/badge/Olivetti-3db87f?style=flat-square) ![Custom](https://img.shields.io/badge/Custom-3db87f?style=flat-square) ![3i](https://img.shields.io/badge/3i-3db87f?style=flat-square) ![FatturaPA](https://img.shields.io/badge/FatturaPA-3db87f?style=flat-square) ![SDI](https://img.shields.io/badge/SDI-3db87f?style=flat-square)
+![RT & fiscalità](https://img.shields.io/badge/RT%20%26%20fiscalità-2b6cb0?style=flat-square&labelColor=2b6cb0)
+![Registratore Telematico](https://img.shields.io/badge/Registratore%20Telematico-2b6cb0?style=flat-square) ![Epson](https://img.shields.io/badge/Epson-2b6cb0?style=flat-square) ![Olivetti](https://img.shields.io/badge/Olivetti-2b6cb0?style=flat-square) ![Custom](https://img.shields.io/badge/Custom-2b6cb0?style=flat-square) ![3i](https://img.shields.io/badge/3i-2b6cb0?style=flat-square) ![FatturaPA](https://img.shields.io/badge/FatturaPA-2b6cb0?style=flat-square) ![SDI](https://img.shields.io/badge/SDI-2b6cb0?style=flat-square)
 
-**Pagamenti & terminali POS**
-![Nexi](https://img.shields.io/badge/Nexi-3db87f?style=flat-square) ![Satispay](https://img.shields.io/badge/Satispay-3db87f?style=flat-square) ![Stripe Terminal](https://img.shields.io/badge/Stripe%20Terminal-3db87f?style=flat-square) ![SumUp](https://img.shields.io/badge/SumUp-3db87f?style=flat-square) ![Ingenico](https://img.shields.io/badge/Ingenico-3db87f?style=flat-square) ![Worldline](https://img.shields.io/badge/Worldline-3db87f?style=flat-square) ![Axerve](https://img.shields.io/badge/Axerve-3db87f?style=flat-square)
+![Pagamenti & terminali POS](https://img.shields.io/badge/Pagamenti%20%26%20terminali%20POS-7c3aed?style=flat-square&labelColor=7c3aed)
+![Nexi](https://img.shields.io/badge/Nexi-7c3aed?style=flat-square) ![Satispay](https://img.shields.io/badge/Satispay-7c3aed?style=flat-square) ![Stripe Terminal](https://img.shields.io/badge/Stripe%20Terminal-7c3aed?style=flat-square) ![SumUp](https://img.shields.io/badge/SumUp-7c3aed?style=flat-square) ![Ingenico](https://img.shields.io/badge/Ingenico-7c3aed?style=flat-square) ![Worldline](https://img.shields.io/badge/Worldline-7c3aed?style=flat-square) ![Axerve](https://img.shields.io/badge/Axerve-7c3aed?style=flat-square)
 
 ---
 
