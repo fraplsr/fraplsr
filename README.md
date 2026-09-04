@@ -64,7 +64,7 @@ Software Engineering Lead in Henaxis, software house a Reggio Calabria. Costruia
 ![Jest](https://img.shields.io/badge/Jest-7c3aed?style=flat-square) ![Vitest](https://img.shields.io/badge/Vitest-7c3aed?style=flat-square) ![Playwright](https://img.shields.io/badge/Playwright-7c3aed?style=flat-square)
 
 **Infrastruttura**
-![Docker](https://img.shields.io/badge/Docker-d97706?style=flat-square) ![Nginx](https://img.shields.io/badge/Nginx-d97706?style=flat-square) ![Caddy](https://img.shields.io/badge/Caddy-d97706?style=flat-square) ![Cloudflare](https://img.shields.io/badge/Cloudflare-d97706?style=flat-square) ![Vercel](https://img.shields.io/badge/Vercel-d97706?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-d97706?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-d97706?style=flat-square) ![Nginx](https://img.shields.io/badge/Nginx-d97706?style=flat-square) ![Caddy](https://img.shields.io/badge/Caddy-d97706?style=flat-square) ![Cloudflare](https://img.shields.io/badge/Cloudflare-d97706?style=flat-square) ![Vercel](https://img.shields.io/badge/Vercel-d97706?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-d97706?style=flat-square) ![Hetzner](https://img.shields.io/badge/Hetzner-d97706?style=flat-square) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-d97706?style=flat-square) ![Coolify](https://img.shields.io/badge/Coolify-d97706?style=flat-square) ![PM2](https://img.shields.io/badge/PM2-d97706?style=flat-square)
 
 **Desktop & automazione**
 ![Tauri](https://img.shields.io/badge/Tauri-3db87f?style=flat-square) ![n8n](https://img.shields.io/badge/n8n-3db87f?style=flat-square) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-3db87f?style=flat-square)
