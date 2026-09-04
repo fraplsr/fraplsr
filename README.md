@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:3db87f&height=180&section=header&text=fraplsr&fontSize=70&fontColor=ffffff&fontAlignY=45&desc=Software%20Engineering%20Lead%20%C2%B7%20Henaxis%20%C2%B7%20Reggio%20Calabria&descAlignY=70&descSize=18&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:3db87f&height=180&section=header&text=fraplsr&fontSize=70&fontColor=ffffff&fontAlignY=45&desc=Innovation%20Manager%20%C2%B7%20Henaxis%20%C2%B7%20Reggio%20Calabria&descAlignY=70&descSize=18&descAlign=50" />
 
 **Reggio Calabria, Italia**
 
 ![Profile views](https://komarev.com/ghpvc/?username=fraplsr&color=3db87f&style=for-the-badge&label=PROFILE+VIEWS)
-![Ruolo](https://img.shields.io/badge/RUOLO-Software%20Engineering%20Lead%20%C2%B7%20Innovation%20Manager-1a1a2e?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48cGF0aCBkPSJNMjEgOGwtOS01LTkgNSA5IDUgOS01eiIvPjxwYXRoIGQ9Ik0zIDh2OGw5IDUgOS01VjgiLz48cGF0aCBkPSJNMTIgMTN2OCIvPjwvc3ZnPg==&logoColor=white&labelColor=3db87f)
+![Ruolo](https://img.shields.io/badge/RUOLO-Innovation%20Manager-1a1a2e?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48cGF0aCBkPSJNMjEgOGwtOS01LTkgNSA5IDUgOS01eiIvPjxwYXRoIGQ9Ik0zIDh2OGw5IDUgOS01VjgiLz48cGF0aCBkPSJNMTIgMTN2OCIvPjwvc3ZnPg==&logoColor=white&labelColor=3db87f)
 ![Focus](https://img.shields.io/badge/FOCUS-Gestionali%20%26%20Agenti%20AI-1a1a2e?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI5Ii8+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNSIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEiLz48L3N2Zz4=&logoColor=white&labelColor=2b6cb0)
 ![Sede](https://img.shields.io/badge/SEDE-Henaxis%2C%20Reggio%20Calabria-1a1a2e?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48cGF0aCBkPSJNMTIgMjJzNy03LjUgNy0xMmE3IDcgMCAxMC0xNCAwYzAgNC41IDcgMTIgNyAxMnoiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjEwIiByPSIyLjUiLz48L3N2Zz4=&logoColor=white&labelColor=7c3aed)
 
@@ -15,7 +15,7 @@
 
 ## Chi sono
 
-Software Engineering Lead in Henaxis, software house a Reggio Calabria. Costruiamo e ospitiamo noi quello che facciamo: gestionali, agenti AI, elettronica su misura, gli incentivi per pagarli.
+Innovation Manager in Henaxis, software house a Reggio Calabria. Costruiamo e ospitiamo noi quello che facciamo: gestionali, agenti AI, elettronica su misura, gli incentivi per pagarli.
 
 <div align="center">
 
