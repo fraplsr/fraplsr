@@ -5,9 +5,9 @@
 **Reggio Calabria, Italia**
 
 ![Profile views](https://komarev.com/ghpvc/?username=fraplsr&color=3db87f&style=for-the-badge&label=PROFILE+VIEWS)
-![Ruolo](https://img.shields.io/badge/RUOLO-Software%20Engineering%20Lead-3db87f?style=for-the-badge)
-![Focus](https://img.shields.io/badge/FOCUS-Gestionali%20%26%20Agenti%20AI-1a1a2e?style=for-the-badge)
-![Sede](https://img.shields.io/badge/SEDE-Henaxis%2C%20Reggio%20Calabria-3db87f?style=for-the-badge)
+![Ruolo](https://img.shields.io/badge/RUOLO-Software%20Engineering%20Lead-1a1a2e?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48cGF0aCBkPSJNMjEgOGwtOS01LTkgNSA5IDUgOS01eiIvPjxwYXRoIGQ9Ik0zIDh2OGw5IDUgOS01VjgiLz48cGF0aCBkPSJNMTIgMTN2OCIvPjwvc3ZnPg==&logoColor=white&labelColor=3db87f)
+![Focus](https://img.shields.io/badge/FOCUS-Gestionali%20%26%20Agenti%20AI-1a1a2e?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI5Ii8+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNSIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEiLz48L3N2Zz4=&logoColor=white&labelColor=2b6cb0)
+![Sede](https://img.shields.io/badge/SEDE-Henaxis%2C%20Reggio%20Calabria-1a1a2e?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48cGF0aCBkPSJNMTIgMjJzNy03LjUgNy0xMmE3IDcgMCAxMC0xNCAwYzAgNC41IDcgMTIgNyAxMnoiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjEwIiByPSIyLjUiLz48L3N2Zz4=&logoColor=white&labelColor=7c3aed)
 
 </div>
 
@@ -19,10 +19,10 @@ Software Engineering Lead in Henaxis, software house a Reggio Calabria. Costruia
 
 <div align="center">
 
-![Handle](https://img.shields.io/badge/HANDLE-fraplsr-1a1a2e?style=flat-square) ![Primario](https://img.shields.io/badge/PRIMARIO-Gestionali%20%26%20Agenti%20AI-3db87f?style=flat-square)
-![Sede](https://img.shields.io/badge/SEDE-Italia-1a1a2e?style=flat-square) ![Secondario](https://img.shields.io/badge/SECONDARIO-Finanza%20agevolata-3db87f?style=flat-square)
-![Fuso](https://img.shields.io/badge/FUSO-CET%2FCEST%20(UTC%2B1%2F2)-1a1a2e?style=flat-square) ![Extra](https://img.shields.io/badge/EXTRA-Elettronica%20su%20misura-3db87f?style=flat-square)
-![Email](https://img.shields.io/badge/EMAIL-info%40henaxis.com-1a1a2e?style=flat-square) ![Motto](https://img.shields.io/badge/MOTTO-Build%20it%2C%20host%20it%2C%20own%20it-3db87f?style=flat-square)
+![Handle](https://img.shields.io/badge/HANDLE-fraplsr-1a1a2e?style=flat-square&logo=github&logoColor=white&labelColor=3db87f) ![Primario](https://img.shields.io/badge/PRIMARIO-Gestionali%20%26%20Agenti%20AI-1a1a2e?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMyAyTDMgMTRoN2wtMSA4IDEwLTEyaC03bDEtOHoiLz48L3N2Zz4=&logoColor=white&labelColor=2b6cb0)
+![Sede](https://img.shields.io/badge/SEDE-Italia-1a1a2e?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48cGF0aCBkPSJNMTIgMjJzNy03LjUgNy0xMmE3IDcgMCAxMC0xNCAwYzAgNC41IDcgMTIgNyAxMnoiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjEwIiByPSIyLjUiLz48L3N2Zz4=&logoColor=white&labelColor=7c3aed) ![Secondario](https://img.shields.io/badge/SECONDARIO-Finanza%20agevolata-1a1a2e?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48cGF0aCBkPSJNNCAyMlYzIi8+PHBhdGggZD0iTTQgNGgxNGwtMiA0IDIgNEg0Ii8+PC9zdmc+&logoColor=white&labelColor=d97706)
+![Fuso](https://img.shields.io/badge/FUSO-CET%2FCEST%20(UTC%2B1%2F2)-1a1a2e?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI5Ii8+PHBhdGggZD0iTTEyIDd2NWwzIDMiLz48L3N2Zz4=&logoColor=white&labelColor=7c3aed) ![Extra](https://img.shields.io/badge/EXTRA-Elettronica%20su%20misura-1a1a2e?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAybDIgNiA2IDItNiAyLTIgNi0yLTYtNi0yIDYtMnoiLz48L3N2Zz4=&logoColor=white&labelColor=3db87f)
+![Email](https://img.shields.io/badge/EMAIL-info%40henaxis.com-1a1a2e?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48cmVjdCB4PSIzIiB5PSI1IiB3aWR0aD0iMTgiIGhlaWdodD0iMTQiIHJ4PSIyIi8+PHBhdGggZD0iTTMgN2w5IDYgOS02Ii8+PC9zdmc+&logoColor=white&labelColor=2b6cb0) ![Motto](https://img.shields.io/badge/MOTTO-Build%20it%2C%20host%20it%2C%20own%20it-1a1a2e?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48cGF0aCBkPSJNMjEgMTVhMiAyIDAgMDEtMiAySDdsLTQgNFY1YTIgMiAwIDAxMi0yaDE0YTIgMiAwIDAxMiAyeiIvPjwvc3ZnPg==&logoColor=white&labelColor=3db87f)
 
 </div>
 
