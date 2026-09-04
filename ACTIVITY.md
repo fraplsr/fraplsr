@@ -14,3 +14,4 @@
 - 2026-09-04T00:09:47Z attivita #30
 - 2026-09-04T00:09:57Z attivita #31
 - 2026-09-04T00:10:06Z attivita #32
+- test co-authorship trailer
