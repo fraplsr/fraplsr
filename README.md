@@ -4,10 +4,10 @@
 
 **Reggio Calabria, Italia**
 
-👁️ ![Profile views](https://komarev.com/ghpvc/?username=fraplsr&color=3db87f&style=for-the-badge&label=PROFILE+VIEWS)
-📦 ![Ruolo](https://img.shields.io/badge/RUOLO-Software%20Engineering%20Lead-3db87f?style=for-the-badge)
-🎯 ![Focus](https://img.shields.io/badge/FOCUS-Gestionali%20%26%20Agenti%20AI-1a1a2e?style=for-the-badge)
-🧭 ![Sede](https://img.shields.io/badge/SEDE-Henaxis%2C%20Reggio%20Calabria-3db87f?style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=fraplsr&color=3db87f&style=for-the-badge&label=PROFILE+VIEWS)
+![Ruolo](https://img.shields.io/badge/RUOLO-Software%20Engineering%20Lead-3db87f?style=for-the-badge)
+![Focus](https://img.shields.io/badge/FOCUS-Gestionali%20%26%20Agenti%20AI-1a1a2e?style=for-the-badge)
+![Sede](https://img.shields.io/badge/SEDE-Henaxis%2C%20Reggio%20Calabria-3db87f?style=for-the-badge)
 
 </div>
 
@@ -19,10 +19,10 @@ Software Engineering Lead in Henaxis, software house a Reggio Calabria. Costruia
 
 <div align="center">
 
-🐙 ![Handle](https://img.shields.io/badge/HANDLE-fraplsr-1a1a2e?style=flat-square) ⚡ ![Primario](https://img.shields.io/badge/PRIMARIO-Gestionali%20%26%20Agenti%20AI-3db87f?style=flat-square)
-📍 ![Sede](https://img.shields.io/badge/SEDE-Italia-1a1a2e?style=flat-square) 🛡️ ![Secondario](https://img.shields.io/badge/SECONDARIO-Finanza%20agevolata-3db87f?style=flat-square)
-🕒 ![Fuso](https://img.shields.io/badge/FUSO-CET%2FCEST%20(UTC%2B1%2F2)-1a1a2e?style=flat-square) ✨ ![Extra](https://img.shields.io/badge/EXTRA-Elettronica%20su%20misura-3db87f?style=flat-square)
-✉️ ![Email](https://img.shields.io/badge/EMAIL-info%40henaxis.com-1a1a2e?style=flat-square) 💬 ![Motto](https://img.shields.io/badge/MOTTO-Build%20it%2C%20host%20it%2C%20own%20it-3db87f?style=flat-square)
+![Handle](https://img.shields.io/badge/HANDLE-fraplsr-1a1a2e?style=flat-square) ![Primario](https://img.shields.io/badge/PRIMARIO-Gestionali%20%26%20Agenti%20AI-3db87f?style=flat-square)
+![Sede](https://img.shields.io/badge/SEDE-Italia-1a1a2e?style=flat-square) ![Secondario](https://img.shields.io/badge/SECONDARIO-Finanza%20agevolata-3db87f?style=flat-square)
+![Fuso](https://img.shields.io/badge/FUSO-CET%2FCEST%20(UTC%2B1%2F2)-1a1a2e?style=flat-square) ![Extra](https://img.shields.io/badge/EXTRA-Elettronica%20su%20misura-3db87f?style=flat-square)
+![Email](https://img.shields.io/badge/EMAIL-info%40henaxis.com-1a1a2e?style=flat-square) ![Motto](https://img.shields.io/badge/MOTTO-Build%20it%2C%20host%20it%2C%20own%20it-3db87f?style=flat-square)
 
 </div>
 
@@ -42,43 +42,43 @@ Software Engineering Lead in Henaxis, software house a Reggio Calabria. Costruia
 
 ## Stack
 
-**💻 Linguaggi**
+**Linguaggi**
 ![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3db87f?style=flat-square) ![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square) ![PHP](https://img.shields.io/badge/PHP-3db87f?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-1a1a2e?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3db87f?style=flat-square) ![Astro](https://img.shields.io/badge/Astro-1a1a2e?style=flat-square)
 
-**🗄️ Dati**
+**Dati**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20%2B%20pgvector-3db87f?style=flat-square) ![MySQL/MariaDB](https://img.shields.io/badge/MySQL%20%2F%20MariaDB-1a1a2e?style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-3db87f?style=flat-square) ![SQLite](https://img.shields.io/badge/SQLite-1a1a2e?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-3db87f?style=flat-square) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-1a1a2e?style=flat-square)
 
-**⚙️ Backend**
+**Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-3db87f?style=flat-square) ![Express](https://img.shields.io/badge/Express-1a1a2e?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-3db87f?style=flat-square) ![Django](https://img.shields.io/badge/Django-1a1a2e?style=flat-square) ![Celery](https://img.shields.io/badge/Celery-3db87f?style=flat-square) ![Dolibarr](https://img.shields.io/badge/Dolibarr-1a1a2e?style=flat-square)
 
-**🔗 ORM**
+**ORM**
 ![Prisma](https://img.shields.io/badge/Prisma-3db87f?style=flat-square) ![Drizzle](https://img.shields.io/badge/Drizzle-1a1a2e?style=flat-square) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy%20%2B%20Alembic-3db87f?style=flat-square)
 
-**🎨 Frontend**
+**Frontend**
 ![React](https://img.shields.io/badge/React-1a1a2e?style=flat-square) ![Vue](https://img.shields.io/badge/Vue-3db87f?style=flat-square) ![Next.js](https://img.shields.io/badge/Next.js-1a1a2e?style=flat-square) ![Tailwind](https://img.shields.io/badge/Tailwind-3db87f?style=flat-square) ![Vite](https://img.shields.io/badge/Vite-1a1a2e?style=flat-square) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-3db87f?style=flat-square)
 
-**📝 CMS**
+**CMS**
 ![Payload CMS](https://img.shields.io/badge/Payload%20CMS-1a1a2e?style=flat-square)
 
-**🧪 Test**
+**Test**
 ![Jest](https://img.shields.io/badge/Jest-3db87f?style=flat-square) ![Vitest](https://img.shields.io/badge/Vitest-1a1a2e?style=flat-square) ![Playwright](https://img.shields.io/badge/Playwright-3db87f?style=flat-square)
 
-**🏗️ Infrastruttura**
+**Infrastruttura**
 ![Docker](https://img.shields.io/badge/Docker-3db87f?style=flat-square) ![Nginx](https://img.shields.io/badge/Nginx-1a1a2e?style=flat-square) ![Caddy](https://img.shields.io/badge/Caddy-3db87f?style=flat-square) ![Cloudflare](https://img.shields.io/badge/Cloudflare-1a1a2e?style=flat-square)
 
-**🤖 Desktop & automazione**
+**Desktop & automazione**
 ![Tauri](https://img.shields.io/badge/Tauri-3db87f?style=flat-square) ![n8n](https://img.shields.io/badge/n8n-1a1a2e?style=flat-square) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-3db87f?style=flat-square)
 
-**🔌 Integrazioni**
+**Integrazioni**
 ![Stripe](https://img.shields.io/badge/Stripe-1a1a2e?style=flat-square) ![Twilio](https://img.shields.io/badge/Twilio-3db87f?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-1a1a2e?style=flat-square) ![Telegram Bot API](https://img.shields.io/badge/Telegram%20Bot%20API-3db87f?style=flat-square)
 
-**📱 Mobile**
+**Mobile**
 ![Swift](https://img.shields.io/badge/Swift-1a1a2e?style=flat-square) ![Kotlin](https://img.shields.io/badge/Kotlin-3db87f?style=flat-square) ![Dart](https://img.shields.io/badge/Dart-1a1a2e?style=flat-square)
 
-**🔩 Elettronica su misura**
+**Elettronica su misura**
 ![ESP32](https://img.shields.io/badge/ESP32-3db87f?style=flat-square) ![Firmware C++](https://img.shields.io/badge/Firmware%20C%2B%2B-1a1a2e?style=flat-square)
 
-**🧠 AI**
+**AI**
 ![Ollama](https://img.shields.io/badge/Ollama-3db87f?style=flat-square) inferenza self-hosted dove i dati non possono uscire.
 
 ---
