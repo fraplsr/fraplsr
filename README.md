@@ -49,7 +49,7 @@ Software Engineering Lead in Henaxis, software house a Reggio Calabria. Costruia
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20%2B%20pgvector%20%2B%20PostGIS-2b6cb0?style=flat-square) ![MySQL/MariaDB](https://img.shields.io/badge/MySQL%20%2F%20MariaDB-2b6cb0?style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-2b6cb0?style=flat-square) ![SQLite](https://img.shields.io/badge/SQLite-2b6cb0?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-2b6cb0?style=flat-square) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-2b6cb0?style=flat-square) ![Supabase](https://img.shields.io/badge/Supabase-2b6cb0?style=flat-square)
 
 **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-7c3aed?style=flat-square) ![Express](https://img.shields.io/badge/Express-7c3aed?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-7c3aed?style=flat-square) ![Django](https://img.shields.io/badge/Django-7c3aed?style=flat-square) ![Celery](https://img.shields.io/badge/Celery-7c3aed?style=flat-square) ![Dolibarr](https://img.shields.io/badge/Dolibarr-7c3aed?style=flat-square) ![Socket.IO](https://img.shields.io/badge/Socket.IO-7c3aed?style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-7c3aed?style=flat-square) ![Express](https://img.shields.io/badge/Express-7c3aed?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-7c3aed?style=flat-square) ![Django](https://img.shields.io/badge/Django-7c3aed?style=flat-square) ![Celery](https://img.shields.io/badge/Celery-7c3aed?style=flat-square) ![Socket.IO](https://img.shields.io/badge/Socket.IO-7c3aed?style=flat-square)
 
 **ORM**
 ![Prisma](https://img.shields.io/badge/Prisma-d97706?style=flat-square) ![Drizzle](https://img.shields.io/badge/Drizzle-d97706?style=flat-square) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy%20%2B%20Alembic-d97706?style=flat-square)
@@ -59,6 +59,9 @@ Software Engineering Lead in Henaxis, software house a Reggio Calabria. Costruia
 
 **CMS**
 ![Payload CMS](https://img.shields.io/badge/Payload%20CMS-2b6cb0?style=flat-square) ![Strapi](https://img.shields.io/badge/Strapi-2b6cb0?style=flat-square) ![CMS proprietari](https://img.shields.io/badge/CMS%20proprietari-2b6cb0?style=flat-square)
+
+**ERP**
+![Dolibarr](https://img.shields.io/badge/Dolibarr-2b6cb0?style=flat-square)
 
 **Test**
 ![Jest](https://img.shields.io/badge/Jest-7c3aed?style=flat-square) ![Vitest](https://img.shields.io/badge/Vitest-7c3aed?style=flat-square) ![Playwright](https://img.shields.io/badge/Playwright-7c3aed?style=flat-square)
