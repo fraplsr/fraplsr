@@ -1,8 +1,35 @@
-# fraplsr
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:3db87f&height=180&section=header&text=fraplsr&fontSize=70&fontColor=ffffff&fontAlignY=45&desc=Software%20Engineering%20Lead%20%C2%B7%20Henaxis%20%C2%B7%20Reggio%20Calabria&descAlignY=70&descSize=18&descAlign=50" />
+
+**Reggio Calabria, Italia**
+
+![Profile views](https://komarev.com/ghpvc/?username=fraplsr&color=3db87f&style=for-the-badge&label=PROFILE+VIEWS)
+![Ruolo](https://img.shields.io/badge/RUOLO-Software%20Engineering%20Lead-3db87f?style=for-the-badge)
+![Focus](https://img.shields.io/badge/FOCUS-Gestionali%20%26%20Agenti%20AI-1a1a2e?style=for-the-badge)
+![Sede](https://img.shields.io/badge/SEDE-Henaxis%2C%20Reggio%20Calabria-3db87f?style=for-the-badge)
+
+</div>
+
+---
+
+## Chi sono
 
 Software Engineering Lead in Henaxis, software house a Reggio Calabria. Costruiamo e ospitiamo noi quello che facciamo: gestionali, agenti AI, elettronica su misura, gli incentivi per pagarli.
 
-**Cosa costruiamo**
+<div align="center">
+
+![Handle](https://img.shields.io/badge/HANDLE-fraplsr-1a1a2e?style=flat-square) ![Primario](https://img.shields.io/badge/PRIMARIO-Gestionali%20%26%20Agenti%20AI-3db87f?style=flat-square)
+![Sede](https://img.shields.io/badge/SEDE-Italia-1a1a2e?style=flat-square) ![Secondario](https://img.shields.io/badge/SECONDARIO-Finanza%20agevolata-3db87f?style=flat-square)
+![Fuso](https://img.shields.io/badge/FUSO-CET%2FCEST%20(UTC%2B1%2F2)-1a1a2e?style=flat-square) ![Extra](https://img.shields.io/badge/EXTRA-Elettronica%20su%20misura-3db87f?style=flat-square)
+![Email](https://img.shields.io/badge/EMAIL-info%40henaxis.com-1a1a2e?style=flat-square) ![Motto](https://img.shields.io/badge/MOTTO-Build%20it%2C%20host%20it%2C%20own%20it-3db87f?style=flat-square)
+
+</div>
+
+---
+
+## Cosa costruiamo
+
 - Pauli — il gestionale modulare di Henaxis, un solo sistema dall'ordine alla fattura
 - Aurum — l'agente AI che usiamo per primi, sulla nostra infrastruttura, prima di proporlo a un cliente
 - IND4.0 — la piattaforma per la finanza agevolata, dall'investimento alla rendicontazione
@@ -13,15 +40,35 @@ Software Engineering Lead in Henaxis, software house a Reggio Calabria. Costruia
 - Elettronica su misura, dal prototipo alla piccola serie
 - Decine di siti, gestionali e sistemi per clienti — tra gli altri CibisWeb, Studio Legale Gemelli, Sentirci, Borruto Carni, Consorzio Domicare; l'elenco completo è nel portfolio, su henaxis.com
 
-**Stack**
-- Linguaggi: TypeScript, JavaScript, Python, PHP, Rust, C++, Astro
-- Dati: PostgreSQL (con pgvector), MySQL/MariaDB, MongoDB, SQLite, Redis
-- Frontend: React, Vue, Next.js, Tailwind
-- Backend: Node.js, FastAPI, Celery, Prisma, Drizzle
-- Infrastruttura: Docker, Nginx, Caddy
-- Mobile: Swift, Kotlin, Dart
-- Elettronica su misura: schede ESP32, firmware in C++
+## Stack
+
+**Linguaggi**
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3db87f?style=flat-square) ![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square) ![PHP](https://img.shields.io/badge/PHP-3db87f?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-1a1a2e?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3db87f?style=flat-square) ![Astro](https://img.shields.io/badge/Astro-1a1a2e?style=flat-square)
+
+**Dati**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20%2B%20pgvector-3db87f?style=flat-square) ![MySQL/MariaDB](https://img.shields.io/badge/MySQL%20%2F%20MariaDB-1a1a2e?style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-3db87f?style=flat-square) ![SQLite](https://img.shields.io/badge/SQLite-1a1a2e?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-3db87f?style=flat-square)
+
+**Frontend**
+![React](https://img.shields.io/badge/React-1a1a2e?style=flat-square) ![Vue](https://img.shields.io/badge/Vue-3db87f?style=flat-square) ![Next.js](https://img.shields.io/badge/Next.js-1a1a2e?style=flat-square) ![Tailwind](https://img.shields.io/badge/Tailwind-3db87f?style=flat-square)
+
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-1a1a2e?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-3db87f?style=flat-square) ![Celery](https://img.shields.io/badge/Celery-1a1a2e?style=flat-square) ![Prisma](https://img.shields.io/badge/Prisma-3db87f?style=flat-square) ![Drizzle](https://img.shields.io/badge/Drizzle-1a1a2e?style=flat-square)
+
+**Infrastruttura**
+![Docker](https://img.shields.io/badge/Docker-3db87f?style=flat-square) ![Nginx](https://img.shields.io/badge/Nginx-1a1a2e?style=flat-square) ![Caddy](https://img.shields.io/badge/Caddy-3db87f?style=flat-square)
+
+**Mobile**
+![Swift](https://img.shields.io/badge/Swift-1a1a2e?style=flat-square) ![Kotlin](https://img.shields.io/badge/Kotlin-3db87f?style=flat-square) ![Dart](https://img.shields.io/badge/Dart-1a1a2e?style=flat-square)
+
+**Elettronica su misura**
+![ESP32](https://img.shields.io/badge/ESP32-3db87f?style=flat-square) ![Firmware C++](https://img.shields.io/badge/Firmware%20C%2B%2B-1a1a2e?style=flat-square)
 
 Inferenza AI self-hosted dove i dati non possono uscire.
 
+---
+
+<div align="center">
+
 [henaxis.com](https://www.henaxis.com) · info@henaxis.com
+
+</div>
