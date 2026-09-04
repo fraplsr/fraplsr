@@ -17,7 +17,7 @@ Software Engineering Lead in Henaxis, software house a Reggio Calabria. Costruia
 - Linguaggi: TypeScript, JavaScript, Python, PHP, Rust, C++, Astro
 - Dati: PostgreSQL (con pgvector), MySQL/MariaDB, MongoDB, SQLite, Redis
 - Frontend: React, Vue, Next.js, Tailwind
-- Backend: FastAPI, Celery, Prisma, Drizzle
+- Backend: Node.js, FastAPI, Celery, Prisma, Drizzle
 - Infrastruttura: Docker, Nginx, Caddy
 - Mobile: Swift, Kotlin, Dart
 - Elettronica su misura: schede ESP32, firmware in C++
