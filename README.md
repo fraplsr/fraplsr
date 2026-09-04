@@ -49,13 +49,13 @@ Software Engineering Lead in Henaxis, software house a Reggio Calabria. Costruia
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20%2B%20pgvector%20%2B%20PostGIS-2b6cb0?style=flat-square) ![MySQL/MariaDB](https://img.shields.io/badge/MySQL%20%2F%20MariaDB-2b6cb0?style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-2b6cb0?style=flat-square) ![SQLite](https://img.shields.io/badge/SQLite-2b6cb0?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-2b6cb0?style=flat-square) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-2b6cb0?style=flat-square) ![Supabase](https://img.shields.io/badge/Supabase-2b6cb0?style=flat-square)
 
 **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-7c3aed?style=flat-square) ![Express](https://img.shields.io/badge/Express-7c3aed?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-7c3aed?style=flat-square) ![Django](https://img.shields.io/badge/Django-7c3aed?style=flat-square) ![Celery](https://img.shields.io/badge/Celery-7c3aed?style=flat-square) ![Dolibarr](https://img.shields.io/badge/Dolibarr-7c3aed?style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-7c3aed?style=flat-square) ![Express](https://img.shields.io/badge/Express-7c3aed?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-7c3aed?style=flat-square) ![Django](https://img.shields.io/badge/Django-7c3aed?style=flat-square) ![Celery](https://img.shields.io/badge/Celery-7c3aed?style=flat-square) ![Dolibarr](https://img.shields.io/badge/Dolibarr-7c3aed?style=flat-square) ![Socket.IO](https://img.shields.io/badge/Socket.IO-7c3aed?style=flat-square)
 
 **ORM**
 ![Prisma](https://img.shields.io/badge/Prisma-d97706?style=flat-square) ![Drizzle](https://img.shields.io/badge/Drizzle-d97706?style=flat-square) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy%20%2B%20Alembic-d97706?style=flat-square)
 
 **Frontend**
-![React](https://img.shields.io/badge/React-3db87f?style=flat-square) ![Vue](https://img.shields.io/badge/Vue-3db87f?style=flat-square) ![Next.js](https://img.shields.io/badge/Next.js-3db87f?style=flat-square) ![Tailwind](https://img.shields.io/badge/Tailwind-3db87f?style=flat-square) ![Vite](https://img.shields.io/badge/Vite-3db87f?style=flat-square) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-3db87f?style=flat-square)
+![React](https://img.shields.io/badge/React-3db87f?style=flat-square) ![Vue](https://img.shields.io/badge/Vue-3db87f?style=flat-square) ![Next.js](https://img.shields.io/badge/Next.js-3db87f?style=flat-square) ![Tailwind](https://img.shields.io/badge/Tailwind-3db87f?style=flat-square) ![Vite](https://img.shields.io/badge/Vite-3db87f?style=flat-square) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-3db87f?style=flat-square) ![Three.js](https://img.shields.io/badge/Three.js-3db87f?style=flat-square) ![React Three Fiber](https://img.shields.io/badge/React%20Three%20Fiber-3db87f?style=flat-square)
 
 **CMS**
 ![Payload CMS](https://img.shields.io/badge/Payload%20CMS-2b6cb0?style=flat-square) ![Strapi](https://img.shields.io/badge/Strapi-2b6cb0?style=flat-square) ![CMS proprietari](https://img.shields.io/badge/CMS%20proprietari-2b6cb0?style=flat-square)
@@ -79,7 +79,7 @@ Software Engineering Lead in Henaxis, software house a Reggio Calabria. Costruia
 ![ESP32](https://img.shields.io/badge/ESP32-d97706?style=flat-square) ![Firmware C++](https://img.shields.io/badge/Firmware%20C%2B%2B-d97706?style=flat-square)
 
 **AI**
-![Ollama](https://img.shields.io/badge/Ollama-3db87f?style=flat-square) ![CUDA](https://img.shields.io/badge/CUDA-3db87f?style=flat-square) ![TensorRT](https://img.shields.io/badge/TensorRT-3db87f?style=flat-square) ![Jetson Orin](https://img.shields.io/badge/Jetson%20Orin-3db87f?style=flat-square) ![JetPack](https://img.shields.io/badge/JetPack-3db87f?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-3db87f?style=flat-square) ![CUDA](https://img.shields.io/badge/CUDA-3db87f?style=flat-square) ![TensorRT](https://img.shields.io/badge/TensorRT-3db87f?style=flat-square) ![Jetson Orin](https://img.shields.io/badge/Jetson%20Orin-3db87f?style=flat-square) ![JetPack](https://img.shields.io/badge/JetPack-3db87f?style=flat-square) ![Whisper](https://img.shields.io/badge/Whisper-3db87f?style=flat-square)
 
 Inferenza AI self-hosted dove i dati non possono uscire, anche su hardware embedded (Jetson Orin).
 
