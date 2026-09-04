@@ -31,11 +31,8 @@ Software Engineering Lead in Henaxis, software house a Reggio Calabria. Costruia
 ## Certificazione
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/fraplsr/fraplsr/main/assets/accredia-logo.svg" height="36" alt="Accredia" />&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/fraplsr/fraplsr/main/assets/bureau-veritas-logo.svg" height="36" alt="Bureau Veritas" />
+<img src="https://raw.githubusercontent.com/fraplsr/fraplsr/main/assets/innovation-manager-badge.svg" alt="Innovation Manager, UNI 11814, certificazione Accredia n. 396" width="640" />
 </div>
-
-**Innovation Manager, UNI 11814** — certificazione rilasciata da Bureau Veritas Italia, accreditata Accredia n. 396. Riferimento normativo: famiglia ISO 56000 (gestione dell'innovazione).
 
 ---
 
