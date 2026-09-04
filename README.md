@@ -43,43 +43,43 @@ Software Engineering Lead in Henaxis, software house a Reggio Calabria. Costruia
 ## Stack
 
 **Linguaggi**
-![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3db87f?style=flat-square) ![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square) ![PHP](https://img.shields.io/badge/PHP-3db87f?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-1a1a2e?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3db87f?style=flat-square) ![Astro](https://img.shields.io/badge/Astro-1a1a2e?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3db87f?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3db87f?style=flat-square) ![Python](https://img.shields.io/badge/Python-3db87f?style=flat-square) ![PHP](https://img.shields.io/badge/PHP-3db87f?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-3db87f?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3db87f?style=flat-square) ![Astro](https://img.shields.io/badge/Astro-3db87f?style=flat-square)
 
 **Dati**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20%2B%20pgvector-3db87f?style=flat-square) ![MySQL/MariaDB](https://img.shields.io/badge/MySQL%20%2F%20MariaDB-1a1a2e?style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-3db87f?style=flat-square) ![SQLite](https://img.shields.io/badge/SQLite-1a1a2e?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-3db87f?style=flat-square) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-1a1a2e?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20%2B%20pgvector-2b6cb0?style=flat-square) ![MySQL/MariaDB](https://img.shields.io/badge/MySQL%20%2F%20MariaDB-2b6cb0?style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-2b6cb0?style=flat-square) ![SQLite](https://img.shields.io/badge/SQLite-2b6cb0?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-2b6cb0?style=flat-square) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-2b6cb0?style=flat-square)
 
 **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-3db87f?style=flat-square) ![Express](https://img.shields.io/badge/Express-1a1a2e?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-3db87f?style=flat-square) ![Django](https://img.shields.io/badge/Django-1a1a2e?style=flat-square) ![Celery](https://img.shields.io/badge/Celery-3db87f?style=flat-square) ![Dolibarr](https://img.shields.io/badge/Dolibarr-1a1a2e?style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-7c3aed?style=flat-square) ![Express](https://img.shields.io/badge/Express-7c3aed?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-7c3aed?style=flat-square) ![Django](https://img.shields.io/badge/Django-7c3aed?style=flat-square) ![Celery](https://img.shields.io/badge/Celery-7c3aed?style=flat-square) ![Dolibarr](https://img.shields.io/badge/Dolibarr-7c3aed?style=flat-square)
 
 **ORM**
-![Prisma](https://img.shields.io/badge/Prisma-3db87f?style=flat-square) ![Drizzle](https://img.shields.io/badge/Drizzle-1a1a2e?style=flat-square) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy%20%2B%20Alembic-3db87f?style=flat-square)
+![Prisma](https://img.shields.io/badge/Prisma-d97706?style=flat-square) ![Drizzle](https://img.shields.io/badge/Drizzle-d97706?style=flat-square) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy%20%2B%20Alembic-d97706?style=flat-square)
 
 **Frontend**
-![React](https://img.shields.io/badge/React-1a1a2e?style=flat-square) ![Vue](https://img.shields.io/badge/Vue-3db87f?style=flat-square) ![Next.js](https://img.shields.io/badge/Next.js-1a1a2e?style=flat-square) ![Tailwind](https://img.shields.io/badge/Tailwind-3db87f?style=flat-square) ![Vite](https://img.shields.io/badge/Vite-1a1a2e?style=flat-square) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-3db87f?style=flat-square)
+![React](https://img.shields.io/badge/React-3db87f?style=flat-square) ![Vue](https://img.shields.io/badge/Vue-3db87f?style=flat-square) ![Next.js](https://img.shields.io/badge/Next.js-3db87f?style=flat-square) ![Tailwind](https://img.shields.io/badge/Tailwind-3db87f?style=flat-square) ![Vite](https://img.shields.io/badge/Vite-3db87f?style=flat-square) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-3db87f?style=flat-square)
 
 **CMS**
-![Payload CMS](https://img.shields.io/badge/Payload%20CMS-1a1a2e?style=flat-square)
+![Payload CMS](https://img.shields.io/badge/Payload%20CMS-2b6cb0?style=flat-square)
 
 **Test**
-![Jest](https://img.shields.io/badge/Jest-3db87f?style=flat-square) ![Vitest](https://img.shields.io/badge/Vitest-1a1a2e?style=flat-square) ![Playwright](https://img.shields.io/badge/Playwright-3db87f?style=flat-square)
+![Jest](https://img.shields.io/badge/Jest-7c3aed?style=flat-square) ![Vitest](https://img.shields.io/badge/Vitest-7c3aed?style=flat-square) ![Playwright](https://img.shields.io/badge/Playwright-7c3aed?style=flat-square)
 
 **Infrastruttura**
-![Docker](https://img.shields.io/badge/Docker-3db87f?style=flat-square) ![Nginx](https://img.shields.io/badge/Nginx-1a1a2e?style=flat-square) ![Caddy](https://img.shields.io/badge/Caddy-3db87f?style=flat-square) ![Cloudflare](https://img.shields.io/badge/Cloudflare-1a1a2e?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-d97706?style=flat-square) ![Nginx](https://img.shields.io/badge/Nginx-d97706?style=flat-square) ![Caddy](https://img.shields.io/badge/Caddy-d97706?style=flat-square) ![Cloudflare](https://img.shields.io/badge/Cloudflare-d97706?style=flat-square)
 
 **Desktop & automazione**
-![Tauri](https://img.shields.io/badge/Tauri-3db87f?style=flat-square) ![n8n](https://img.shields.io/badge/n8n-1a1a2e?style=flat-square) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-3db87f?style=flat-square)
+![Tauri](https://img.shields.io/badge/Tauri-3db87f?style=flat-square) ![n8n](https://img.shields.io/badge/n8n-3db87f?style=flat-square) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-3db87f?style=flat-square)
 
 **Integrazioni**
-![Stripe](https://img.shields.io/badge/Stripe-1a1a2e?style=flat-square) ![Twilio](https://img.shields.io/badge/Twilio-3db87f?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-1a1a2e?style=flat-square) ![Telegram Bot API](https://img.shields.io/badge/Telegram%20Bot%20API-3db87f?style=flat-square)
+![Stripe](https://img.shields.io/badge/Stripe-2b6cb0?style=flat-square) ![Twilio](https://img.shields.io/badge/Twilio-2b6cb0?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-2b6cb0?style=flat-square) ![Telegram Bot API](https://img.shields.io/badge/Telegram%20Bot%20API-2b6cb0?style=flat-square)
 
 **Mobile**
-![Swift](https://img.shields.io/badge/Swift-1a1a2e?style=flat-square) ![Kotlin](https://img.shields.io/badge/Kotlin-3db87f?style=flat-square) ![Dart](https://img.shields.io/badge/Dart-1a1a2e?style=flat-square)
+![Swift](https://img.shields.io/badge/Swift-7c3aed?style=flat-square) ![Kotlin](https://img.shields.io/badge/Kotlin-7c3aed?style=flat-square) ![Dart](https://img.shields.io/badge/Dart-7c3aed?style=flat-square)
 
 **Elettronica su misura**
-![ESP32](https://img.shields.io/badge/ESP32-3db87f?style=flat-square) ![Firmware C++](https://img.shields.io/badge/Firmware%20C%2B%2B-1a1a2e?style=flat-square)
+![ESP32](https://img.shields.io/badge/ESP32-d97706?style=flat-square) ![Firmware C++](https://img.shields.io/badge/Firmware%20C%2B%2B-d97706?style=flat-square)
 
 **AI**
-![Ollama](https://img.shields.io/badge/Ollama-3db87f?style=flat-square) ![CUDA](https://img.shields.io/badge/CUDA-1a1a2e?style=flat-square) ![TensorRT](https://img.shields.io/badge/TensorRT-3db87f?style=flat-square) ![Jetson Orin](https://img.shields.io/badge/Jetson%20Orin-1a1a2e?style=flat-square) ![JetPack](https://img.shields.io/badge/JetPack-3db87f?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-3db87f?style=flat-square) ![CUDA](https://img.shields.io/badge/CUDA-3db87f?style=flat-square) ![TensorRT](https://img.shields.io/badge/TensorRT-3db87f?style=flat-square) ![Jetson Orin](https://img.shields.io/badge/Jetson%20Orin-3db87f?style=flat-square) ![JetPack](https://img.shields.io/badge/JetPack-3db87f?style=flat-square)
 
 Inferenza AI self-hosted dove i dati non possono uscire, anche su hardware embedded (Jetson Orin).
 
