@@ -13,6 +13,15 @@ Software Engineering Lead in Henaxis, software house a Reggio Calabria. Costruia
 - Elettronica su misura, dal prototipo alla piccola serie
 - Decine di siti, gestionali e sistemi per clienti — tra gli altri CibisWeb, Studio Legale Gemelli, Sentirci, Borruto Carni, Consorzio Domicare; l'elenco completo è nel portfolio, su henaxis.com
 
-**Stack**: TypeScript, Python, PostgreSQL, Astro, React, Docker. Inferenza AI self-hosted dove i dati non possono uscire.
+**Stack**
+- Linguaggi: TypeScript, JavaScript, Python, PHP, Rust, C++, Astro
+- Dati: PostgreSQL (con pgvector), MySQL/MariaDB, MongoDB, SQLite, Redis
+- Frontend: React, Vue, Next.js, Tailwind
+- Backend: FastAPI, Celery, Prisma, Drizzle
+- Infrastruttura: Docker, Nginx, Caddy
+- Mobile: Swift, Kotlin, Dart
+- Elettronica su misura: schede ESP32, firmware in C++
+
+Inferenza AI self-hosted dove i dati non possono uscire.
 
 [henaxis.com](https://www.henaxis.com) · info@henaxis.com
