@@ -36,17 +36,16 @@ Innovation Manager in Henaxis, software house a Reggio Calabria. Costruiamo e os
 
 ---
 
-## Cosa costruiamo
+## Cosa costruisco
 
-- Pauli — il gestionale modulare di Henaxis, un solo sistema dall'ordine alla fattura
-- Aurum — l'agente AI che usiamo per primi, sulla nostra infrastruttura, prima di proporlo a un cliente
-- IND4.0 — la piattaforma per la finanza agevolata, dall'investimento alla rendicontazione
-- FirmaDocs — firma e gestione documentale
-- SOStiMed — piattaforma per il settore sanitario
-- Ally — app per il monitoraggio della gravidanza
-- ATAM Tracking System — gestione del parco auto della Città Metropolitana di Reggio Calabria, con tracciamento GPS
+- Gestionali modulari su misura, per settori diversi — dal retail alla sanità alla pubblica amministrazione
+- Agenti AI self-hosted, che uso per primo sulla mia infrastruttura prima di proporli a un cliente
+- Piattaforme per la finanza agevolata, dall'investimento alla rendicontazione
+- Firma elettronica e gestione documentale
+- App e piattaforme per il settore sanitario, incluso il monitoraggio in gravidanza
+- Sistemi di tracciamento GPS per flotte, anche per enti pubblici
 - Elettronica su misura, dal prototipo alla piccola serie
-- Decine di siti, gestionali e sistemi per clienti — tra gli altri CibisWeb, Studio Legale Gemelli, Sentirci, Borruto Carni, Consorzio Domicare; l'elenco completo è nel portfolio, su henaxis.com
+- Decine di siti, gestionali e sistemi per clienti diversi; il portfolio è su henaxis.com
 
 ## Stack
 
