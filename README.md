@@ -46,7 +46,7 @@ Software Engineering Lead in Henaxis, software house a Reggio Calabria. Costruia
 ![TypeScript](https://img.shields.io/badge/TypeScript-3db87f?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3db87f?style=flat-square) ![Python](https://img.shields.io/badge/Python-3db87f?style=flat-square) ![PHP](https://img.shields.io/badge/PHP-3db87f?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-3db87f?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3db87f?style=flat-square) ![Astro](https://img.shields.io/badge/Astro-3db87f?style=flat-square)
 
 **Dati**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20%2B%20pgvector-2b6cb0?style=flat-square) ![MySQL/MariaDB](https://img.shields.io/badge/MySQL%20%2F%20MariaDB-2b6cb0?style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-2b6cb0?style=flat-square) ![SQLite](https://img.shields.io/badge/SQLite-2b6cb0?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-2b6cb0?style=flat-square) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-2b6cb0?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20%2B%20pgvector-2b6cb0?style=flat-square) ![MySQL/MariaDB](https://img.shields.io/badge/MySQL%20%2F%20MariaDB-2b6cb0?style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-2b6cb0?style=flat-square) ![SQLite](https://img.shields.io/badge/SQLite-2b6cb0?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-2b6cb0?style=flat-square) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-2b6cb0?style=flat-square) ![Supabase](https://img.shields.io/badge/Supabase-2b6cb0?style=flat-square)
 
 **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-7c3aed?style=flat-square) ![Express](https://img.shields.io/badge/Express-7c3aed?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-7c3aed?style=flat-square) ![Django](https://img.shields.io/badge/Django-7c3aed?style=flat-square) ![Celery](https://img.shields.io/badge/Celery-7c3aed?style=flat-square) ![Dolibarr](https://img.shields.io/badge/Dolibarr-7c3aed?style=flat-square)
@@ -58,13 +58,13 @@ Software Engineering Lead in Henaxis, software house a Reggio Calabria. Costruia
 ![React](https://img.shields.io/badge/React-3db87f?style=flat-square) ![Vue](https://img.shields.io/badge/Vue-3db87f?style=flat-square) ![Next.js](https://img.shields.io/badge/Next.js-3db87f?style=flat-square) ![Tailwind](https://img.shields.io/badge/Tailwind-3db87f?style=flat-square) ![Vite](https://img.shields.io/badge/Vite-3db87f?style=flat-square) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-3db87f?style=flat-square)
 
 **CMS**
-![Payload CMS](https://img.shields.io/badge/Payload%20CMS-2b6cb0?style=flat-square)
+![Payload CMS](https://img.shields.io/badge/Payload%20CMS-2b6cb0?style=flat-square) ![Strapi](https://img.shields.io/badge/Strapi-2b6cb0?style=flat-square) ![CMS proprietari](https://img.shields.io/badge/CMS%20proprietari-2b6cb0?style=flat-square)
 
 **Test**
 ![Jest](https://img.shields.io/badge/Jest-7c3aed?style=flat-square) ![Vitest](https://img.shields.io/badge/Vitest-7c3aed?style=flat-square) ![Playwright](https://img.shields.io/badge/Playwright-7c3aed?style=flat-square)
 
 **Infrastruttura**
-![Docker](https://img.shields.io/badge/Docker-d97706?style=flat-square) ![Nginx](https://img.shields.io/badge/Nginx-d97706?style=flat-square) ![Caddy](https://img.shields.io/badge/Caddy-d97706?style=flat-square) ![Cloudflare](https://img.shields.io/badge/Cloudflare-d97706?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-d97706?style=flat-square) ![Nginx](https://img.shields.io/badge/Nginx-d97706?style=flat-square) ![Caddy](https://img.shields.io/badge/Caddy-d97706?style=flat-square) ![Cloudflare](https://img.shields.io/badge/Cloudflare-d97706?style=flat-square) ![Vercel](https://img.shields.io/badge/Vercel-d97706?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-d97706?style=flat-square)
 
 **Desktop & automazione**
 ![Tauri](https://img.shields.io/badge/Tauri-3db87f?style=flat-square) ![n8n](https://img.shields.io/badge/n8n-3db87f?style=flat-square) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-3db87f?style=flat-square)
@@ -82,6 +82,12 @@ Software Engineering Lead in Henaxis, software house a Reggio Calabria. Costruia
 ![Ollama](https://img.shields.io/badge/Ollama-3db87f?style=flat-square) ![CUDA](https://img.shields.io/badge/CUDA-3db87f?style=flat-square) ![TensorRT](https://img.shields.io/badge/TensorRT-3db87f?style=flat-square) ![Jetson Orin](https://img.shields.io/badge/Jetson%20Orin-3db87f?style=flat-square) ![JetPack](https://img.shields.io/badge/JetPack-3db87f?style=flat-square)
 
 Inferenza AI self-hosted dove i dati non possono uscire, anche su hardware embedded (Jetson Orin).
+
+**RT & fiscalità**
+![Registratore Telematico](https://img.shields.io/badge/Registratore%20Telematico-2b6cb0?style=flat-square) ![Epson](https://img.shields.io/badge/Epson-2b6cb0?style=flat-square) ![Olivetti](https://img.shields.io/badge/Olivetti-2b6cb0?style=flat-square) ![Custom](https://img.shields.io/badge/Custom-2b6cb0?style=flat-square) ![3i](https://img.shields.io/badge/3i-2b6cb0?style=flat-square) ![FatturaPA](https://img.shields.io/badge/FatturaPA-2b6cb0?style=flat-square) ![SDI](https://img.shields.io/badge/SDI-2b6cb0?style=flat-square)
+
+**Pagamenti & terminali POS**
+![Nexi](https://img.shields.io/badge/Nexi-7c3aed?style=flat-square) ![Satispay](https://img.shields.io/badge/Satispay-7c3aed?style=flat-square) ![Stripe Terminal](https://img.shields.io/badge/Stripe%20Terminal-7c3aed?style=flat-square) ![SumUp](https://img.shields.io/badge/SumUp-7c3aed?style=flat-square) ![Ingenico](https://img.shields.io/badge/Ingenico-7c3aed?style=flat-square) ![Worldline](https://img.shields.io/badge/Worldline-7c3aed?style=flat-square) ![Axerve](https://img.shields.io/badge/Axerve-7c3aed?style=flat-square)
 
 ---
 
