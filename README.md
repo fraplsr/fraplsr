@@ -79,7 +79,9 @@ Software Engineering Lead in Henaxis, software house a Reggio Calabria. Costruia
 ![ESP32](https://img.shields.io/badge/ESP32-3db87f?style=flat-square) ![Firmware C++](https://img.shields.io/badge/Firmware%20C%2B%2B-1a1a2e?style=flat-square)
 
 **AI**
-![Ollama](https://img.shields.io/badge/Ollama-3db87f?style=flat-square) inferenza self-hosted dove i dati non possono uscire.
+![Ollama](https://img.shields.io/badge/Ollama-3db87f?style=flat-square) ![CUDA](https://img.shields.io/badge/CUDA-1a1a2e?style=flat-square) ![TensorRT](https://img.shields.io/badge/TensorRT-3db87f?style=flat-square) ![Jetson Orin](https://img.shields.io/badge/Jetson%20Orin-1a1a2e?style=flat-square) ![JetPack](https://img.shields.io/badge/JetPack-3db87f?style=flat-square)
+
+Inferenza AI self-hosted dove i dati non possono uscire, anche su hardware embedded (Jetson Orin).
 
 ---
 
